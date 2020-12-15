@@ -1,9 +1,17 @@
-section {background-color: #faebd6;
-width: 500px;
-height: 300px;}
+section {
+    background-color: #faebd6;
+    width: 500px;
+    height: 300px;
+}
 
-h2 {color: #ff0000;}
+h2 {
+    color: #ff0000;
+}
 
-#p1 {color: #a42423;}
+#p1 {
+    color: #a42423;
+}
 
-#p2 {color: #00008f;}
+#p2 {
+    color: #00008f;
+}
